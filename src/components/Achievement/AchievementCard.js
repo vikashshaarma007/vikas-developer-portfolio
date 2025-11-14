@@ -27,7 +27,7 @@ function AchievementCard({ id, title, details, date, field, image }) {
             <div key={id} className={`achievement-card ${classes.achievementCard}`}>
                 <div className="achievecard-content">
                     <div className="achievecard-details-box" >
-                        <div className="achievecard-details1">
+                        <div>
                             <h2 style={{ color: theme.tertiary }}>{title}</h2>
 
                             <p style={{ color: theme.tertiary80 }}>{details}</p>
