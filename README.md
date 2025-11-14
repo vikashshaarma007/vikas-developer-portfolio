@@ -63,7 +63,8 @@ npm install
 npm start
 ```
 🌐 Deployment
-sh``
+sh 
+```
 You can deploy this portfolio on:
 
 GitHub Pages
