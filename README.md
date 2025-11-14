@@ -78,7 +78,8 @@ npm run build
 Upload the build/ folder to your hosting provider.
 ```
 🤝 Contributing
-
+sh
+```
 Pull requests are welcome!
 For major changes, please open an issue first.
 ```
