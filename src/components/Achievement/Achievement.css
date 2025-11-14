@@ -25,7 +25,7 @@
 .achievement-body h4 {
     font-size: 1.75rem;
     font-family: 'Caveat', cursive;
-    font-weight: 400;
+    font-weight: 250;
 }
 
 .achievement-cards {
@@ -92,7 +92,7 @@
 
 .achievecard-details1 h2 {
     font-family: var(--primaryFont);
-    font-weight: 500;
+    font-weight: 400;
     font-size: 1.225rem;
     line-height: 70%;
     margin-bottom: 6px;
@@ -101,7 +101,7 @@
 .achievecard-details1 p {
     font-size: 1.10rem;
     font-family: Roboto;
-    font-weight: 400;
+    font-weight: 350;
 }
 
 .achievecard-imgcontainer {

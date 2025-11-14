@@ -16,7 +16,7 @@ export const achievementData = {
             title: 'Course in Information Technology — SWAYAM (MHRD, Government of India)',
             details: 'Completed an online certification course covering the fundamentals of computer systems, networking, databases, and software development concepts through the SWAYAM platform under MHRD.',
             date: 'Nov, 2022',
-            field: 'Computer Science',
+            field: 'CS',
             image: '/IT_MOOC_Certificate.jpg'
         },
         {
