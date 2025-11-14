@@ -61,28 +61,21 @@ npm install
 
 3️⃣ Start development server
 npm start
-
+```
 🌐 Deployment
-
+sh``
 You can deploy this portfolio on:
 
 GitHub Pages
 
 Vercel
 
-Netlify
-
-Firebase Hosting
-
-AWS S3 + CloudFront
-
 Build command:
 
 npm run build
 
-
 Upload the build/ folder to your hosting provider.
-
+```
 🤝 Contributing
 
 Pull requests are welcome!
