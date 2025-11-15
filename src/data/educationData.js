@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Delhi Skill and Entrepreneurship University"',
+        institution: 'Delhi Skill and Entrepreneurship University',
         course: 'Master of Computer Application',
         startYear: '2021',
         endYear: '2023'
